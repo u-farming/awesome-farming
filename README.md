@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# awesome urban farming!
 
-You can use the [editor on GitHub](https://github.com/u-farming/awesome-farming/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+A (to-be...) curated list of websites, news and videos related to urban farming.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## urban farming - in news & research
 
-### Markdown
+### german
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- https://nachrichten.idw-online.de/2020/07/03/hochschule-osnabrueck-netzwerk-agrarcycle-soll-vertikaler-landwirtschaft-grossen-schub-geben/ 
+- https://www.landundforst.de/landwirtschaft/pflanze/gemuese-container-waechst-562137
+- https://www.presse.uni-oldenburg.de/mit/2018/197.html
 
-```markdown
-Syntax highlighted code block
+### ...
 
-# Header 1
-## Header 2
-### Header 3
+...
 
-- Bulleted
-- List
+## urban farming - examples / companies on YouTube
 
-1. Numbered
-2. List
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v441RhsR8aY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J9ZmXP-ZE8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/417Qbwn9yso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Bold** and _Italic_ and `Code` text
+# contributing
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/u-farming/awesome-farming/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+... WIP! Structure? Ideas / PRs welcome!
