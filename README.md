@@ -9,10 +9,22 @@ A (to-be...) curated list of websites, news and videos related to urban farming.
 - https://nachrichten.idw-online.de/2020/07/03/hochschule-osnabrueck-netzwerk-agrarcycle-soll-vertikaler-landwirtschaft-grossen-schub-geben/ 
 - https://www.landundforst.de/landwirtschaft/pflanze/gemuese-container-waechst-562137
 - https://www.presse.uni-oldenburg.de/mit/2018/197.html
+- https://ethz.ch/en/the-eth-zurich/sustainability/active-for-sustainability/experience-sustainability.html
 
 ### ...
 
 ...
+
+## urban farming - charities
+
+### switzerland
+
+- https://www.seedcity.ch/
+
+## urban farming - seeds and plants
+
+- https://www.prospecierara.ch/
+- http://varietas.ch/
 
 ## urban farming - examples / companies on YouTube
 
