@@ -23,8 +23,16 @@ A (to-be...) curated list of websites, news and videos related to urban farming.
 
 ## urban farming - seeds and plants
 
+### switzerland
+
 - https://www.prospecierara.ch/
 - http://varietas.ch/
+
+## urban farming - community funding
+
+### switzerland
+
+- https://www.raisenow.ch/
 
 ## urban farming - examples / companies on YouTube
 
